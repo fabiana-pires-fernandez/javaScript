@@ -1,0 +1,10 @@
+#minha-frase {
+	color: #ddac68;
+	font-size: 30px;
+	margin-top: 80px;
+	text-align: center;
+}
+
+a:hover{
+	cursor: pointer;
+}
