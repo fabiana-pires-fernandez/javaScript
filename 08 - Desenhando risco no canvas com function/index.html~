@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Desenhando um risco no canvas 2</title>
+    </head>
+    <body>
+
+        <!--Para utilizar canvas temos que definir altura e largura -->
+        <canvas id="meu-canvas" width="600px" height="600px"></canvas>
+
+
+
+
+        <script src="script.js"></script>
+    </body>
+</html>
