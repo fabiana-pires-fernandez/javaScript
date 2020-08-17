@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+#primeira-section {
+	background-color: green;
+	width: 1350px;
+	height: 700px;
+}
+
+#segunda-section {
+	background-color: blue;
+	width: 1350px;
+	height: 700px;
+}
+
+#terceira-section {
+	background-color: yellow;
+	width: 1350px;
+	height: 700px;
+}
+
+.pink {
+	background-color: pink;
+	width: 1350px;
+	height: 700px;
+}
+
+.image {
+	background-image: url("flor.jpg");
+	width: 1350px;
+	height: 700px;
+	background-repeat: no-repeat;
+=======
+#primeira-section {
+	background-color: green;
+	width: 1350px;
+	height: 700px;
+}
+
+#segunda-section {
+	background-color: blue;
+	width: 1350px;
+	height: 700px;
+}
+
+#terceira-section {
+	background-color: yellow;
+	width: 1350px;
+	height: 700px;
+}
+
+.pink {
+	background-color: pink;
+	width: 1350px;
+	height: 700px;
+}
+
+.image {
+	background-image: url("flor.jpg");
+	width: 1350px;
+	height: 700px;
+	background-repeat: no-repeat;
+>>>>>>> 06f37b1b0691ef9dc1d3097ab35d8e9932c9e029
+}
