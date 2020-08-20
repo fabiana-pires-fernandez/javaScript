@@ -1,0 +1,18 @@
+body {
+	background-color: #012a3e;
+}
+
+#relogio {
+	font-size: 2em;
+	text-align: center;
+	margin: 200px auto 0;
+	color: white;
+	
+}
+
+div span{
+	color: white;
+	background-color: #dc4572;
+	border-radius: 4px;
+	padding: 30px;
+}
