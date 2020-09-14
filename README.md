@@ -11,7 +11,7 @@
 :arrow_right: JavaScript
 <br>
 <h4>:star: Finalidade:</h4>
-<p>O repositório tem por finalidade agrupar exercícios práticos para iniciantes em JavaScript.</p>
+<p> Repositório tem por finalidade alocar desafios de mini projetos práticos iniciantes de javascript.</p>
 <h4>:star: Status do projeto:</h4>
 :arrow_right: Em andamento
 <br>
